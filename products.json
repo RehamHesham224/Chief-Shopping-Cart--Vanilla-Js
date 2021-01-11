@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "kitchen with medium table",
+        "price": 100.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-1.jpg" } } }
+      }
+    },
+   
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "classic kitchen",
+        "price": 120.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-3.jpg" } } }
+      }
+    },
+   
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Modern Kitchen",
+        "price": 880.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Golden Kitchen",
+        "price": 320.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Black Kitchen",
+        "price": 450.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "New Style Kitchen",
+        "price": 530.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-8.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "White Kitchen",
+        "price": 730.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-9.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Classic Modern Kitchen",
+        "price": 999.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-10.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "White Wooden Kitchen",
+        "price": 807.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-11.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "American kitchen",
+        "price": 1132.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-12.jpg" } } }
+      }
+    }
+    
+    ,
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Small kitchen",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-14.jpg" } } }
+      }
+    }
+      ,
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Silver kitchen",
+        "price": 3231.99,
+        "image": { "fields": { "file": { "url": "./images/kitchen-15.jpg" } } }
+      }
+    }
+    
+  ]
+}
